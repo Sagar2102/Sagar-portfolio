@@ -11,7 +11,7 @@ export const Bio = {
     "I am a dedicated Computer Science undergraduate at Dr. B. R. Ambedkar National Institute of Technology, Jalandhar (NIT Jalandhar), aspiring to excel as a software engineer. I am driven by a desire to develop scalable and impactful solutions while embracing challenges and growth opportunities. Let’s collaborate and bring innovative ideas to life!",
   github: "https://github.com/Sagar2102",
   resume:
-    "https://drive.google.com/file/d/1fIuoh8qEmWn3geU4BPUMfi_xCKWwYOMc/view?usp=drive_link",
+    "https://drive.google.com/file/d/18t8igGy1Vx6xrwdlSSo1aJs9ddDb25O9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sagar-66a959271/",
   insta: "https://www.instagram.com/sagar_m26/",
 };
