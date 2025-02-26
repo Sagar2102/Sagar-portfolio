@@ -211,16 +211,16 @@ export const projects = [
   
   {
     id: 0,
-    title: "Real Estate",
+    title: "EstateHub",
     date: "",
     description:
       "Developed a swift and highly responsive website using Vite and React, significantly boosting user registrations, and implemented a robust authentication system with Firebase.Directed the development of a feature-rich property listing system, enabling easy creation, editing, and deletion of listings with support for up to four images per entry.Facilitated seamless direct communicatio between users and property owners, enhancing engagement and satisfaction with an efficient means of interaction.",
     image:
-      "https://camo.githubusercontent.com/58bc165f523fc5a03b69ed60b153a8cafd3c3a49a3695ebe9053e665b1859ad4/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f7265616c2d6573746174652d66656366362e61707073706f742e636f6d2f6f2f53637265656e73686f74253230323032332d31302d33302532306174253230312e35312e3531254532253830254146504d2d6d696e2e706e673f616c743d6d6564696126746f6b656e3d35666132623536312d636366312d343836622d383038362d343466343461323333376637",
+      "https://res.cloudinary.com/dkk2rer7z/image/upload/v1740577922/samples/Screenshot_2025-02-26_191805_dmhgtl.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux","Tailwind CSS"],
     category: "web app",
     github: "https://github.com/Sagar2102/MERN-Real-Estate",
-    webapp: "https://github.com/Sagar2102/MERN-Real-Estate",
+    webapp: "https://estatehub-pmld.onrender.com/",
     
   },
   {
@@ -230,7 +230,7 @@ export const projects = [
     description:
       "Developed a chat app which leverages WebSockets to achieve real-time message delivery, ensuring seamless and instant communication between users without delays or disruptions.With React's component-based architecture, the app provides a highly interactive and responsive user interface, allowing for smooth navigation, quick updates, and an overall enjoyable chatting experience.",
     image:
-      "https://media.licdn.com/dms/image/v2/D5605AQGGMmb-AffLYg/feedshare-thumbnail_720_1280/feedshare-thumbnail_720_1280/0/1732801482888?e=2147483647&v=beta&t=X7EqwgZd3sedgdK3yTNoPAk-5elTFoyeoiVorkhdljA",
+      "https://res.cloudinary.com/dkk2rer7z/image/upload/v1740599272/samples/animals/Screenshot_2025-02-27_011643_nt41ai.png",
     tags: ["Express.js", "Node.js", "React", "MongoDB", "Tailwind CSS", "Socket.io"],
     category: "machine learning",
     github: "https://github.com/Sagar2102/CHAT-APP",
@@ -239,6 +239,33 @@ export const projects = [
   },
   {
     id: 3,
+    title: "MentorMate",
+    date: "",
+    description:
+      "MentorMate is a full-fledged e-learning platform where instructors can sell courses, and students can purchase and study them. Built with the MERN (MongoDB, Express.js, React, Node.js) stack, the platform provides a seamless learning experience with a secure authentication system, course management, and payment integration.",
+    image:
+      "https://res.cloudinary.com/dkk2rer7z/image/upload/v1740599483/samples/animals/Screenshot_2025-02-26_172842_dusxmf.png",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Cloudinary","Tailwind CSS","Stripe"],
+    category: "web app",
+    github: "https://github.com/Sagar2102/MentorMate",
+    webapp: "https://mentormate-vlyu.onrender.com/",
+  },
+  {
+    id: 4,
+    title: "Dwellix",
+    date: "",
+    description:
+      "Developed an online platform connecting users with hosts offering short-term accommodations, featuring a responsive booking system, advanced search filters, and seamless reservation management.Integrated date-specific booking with real-time availability checks, conflict-free reservations, and detailed property descriptions to aid user decision-making.Users can rent their properties providing details about the location, price and amenities of the place.",
+    image:
+      "https://res.cloudinary.com/dkk2rer7z/image/upload/v1740573906/samples/Screenshot_2025-02-26_180500_bhna8f.png",
+    tags: ["Next.js", "Typescript", "React.js","MongoDB"],
+    category: "web app",
+    github: "https://github.com/Sagar2102/Dwellix",
+    webapp: "https://dwellix.onrender.com/",
+  },
+  
+  {
+    id: 5,
     title: "Movie Recommendation System",
     date: "",
     description:
@@ -251,20 +278,7 @@ export const projects = [
     webapp: "https://github.com/Sagar2102/Movie-Recommender-System",
   },
   {
-    id: 4,
-    title: "Dwellix",
-    date: "",
-    description:
-      "Developed an online platform connecting users with hosts offering short-term accommodations, featuring a responsive booking system, advanced search filters, and seamless reservation management.Integrated date-specific booking with real-time availability checks, conflict-free reservations, and detailed property descriptions to aid user decision-making.Users can rent their properties providing details about the location, price and amenities of the place.",
-    image:
-      "https://sangvish.com/wp-content/uploads/2022/07/Instant-and-Request-Booking-Options.png",
-    tags: ["Next.js", "Typescript", "JWT"],
-    category: "web app",
-    github: "https://github.com/Sagar2102/Dwellix",
-    webapp: "https://dwellix.onrender.com/",
-  },
-  {
-    id: 5,
+    id: 6,
     title: "Currency Convertor",
     date: "",
     description:
